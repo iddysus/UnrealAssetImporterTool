@@ -1,6 +1,8 @@
 
 import unreal
 
+# Made by Idlan bin Hafiz
+
 # Define the folder where your assets are located
 asset_folder_path = "C:/Path/To/Your/Assets"
 
